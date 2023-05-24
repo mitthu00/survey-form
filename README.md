@@ -176,7 +176,7 @@ margin-bottom: 2px;
                    <td>Fair</td>
                    <td>Poor</td>
 
-hardik bajaj, [22-05-2023 01:58]
+
 </thead>
                 <tbody>
                     <tr>
@@ -281,7 +281,6 @@ hardik bajaj, [22-05-2023 01:58]
         <br>
         <textarea  name="add"rows="7"cols="72"></textarea>
 
-hardik bajaj, [22-05-2023 01:58]
 <br><br>
           <form action="greentick.html">
             <input type="submit" name="sname" value="submit"/>
